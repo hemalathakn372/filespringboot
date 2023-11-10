@@ -1,4 +1,4 @@
 @Library('springboot@main') _
-index {
+boot {
     NAME = "HEMALATHA"
 }
